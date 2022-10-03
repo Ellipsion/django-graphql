@@ -1,0 +1,5 @@
+sale -> amt
+regular price -> amt+discount
+discount -> discount amt
+discount percent
+taxes -> 
